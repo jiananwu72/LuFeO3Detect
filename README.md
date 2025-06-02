@@ -1,8 +1,6 @@
-# Defect-Detection
+# LuFeO3Detect
 
-Introduction of pycroscopy:
-https://colab.research.google.com/github/jiananwu72/Defect-Detection/blob/main/Intro_to_Pycroscopy.ipynb#scrollTo=6946005d
-
-
-Pycroscopy denoising/PCA paper:
-https://ascimaging.springeropen.com/articles/10.1186/s40679-018-0052-y
+Pycroscopy Ecosystem Demos could be found at:
+https://github.com/pycroscopy/pycroscopy/tree/main/jupyter_notebooks
+https://github.com/pycroscopy/pyTEMlib/tree/main/notebooks
+https://github.com/pycroscopy/atomai/tree/master/examples/notebooks
