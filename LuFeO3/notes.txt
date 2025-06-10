@@ -1,3 +1,0 @@
-s = hs.load('/content/drive/MyDrive/Data/LFO/HAADF_01.dm3')
-s_cropped = s.isig[360:-100, 295:335]
-
